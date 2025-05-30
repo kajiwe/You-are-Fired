@@ -15,6 +15,11 @@
 
 This data analysis project aim to explain on how artificial intelligence is replacing human jobs.The findings are both insightful and eye-opening
 
+
+
+
+
+
 ### Data Sources
 
 The primary dataset used for this analysis is the "The Rise Of Artificial Intelligence.csv" file, sourced from the Kaggle platform [Download here](https://www.kaggle.com/datasets/muhammadroshaanriaz/the-rise-of-artificial-intelligence)
