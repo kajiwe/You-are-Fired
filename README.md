@@ -5,6 +5,7 @@
 * [Data Sources](#data-sources)
 * [Tools](#tools)
 * [Data Cleaning/Preparation](#data-cleaningpreparation)
+* [Exploratory Data Analysis](Exploratory-Data-Analysis)
 * [Data Analysis](#data-analysis)
 * [Result/Findings](#resultfindings)
 * [Recommendations](#recommendations)
@@ -35,12 +36,18 @@ In the initial data preparation phase, i performe the following tasks:
 1. Data loading and inspection.
 2. Data cleaning and formatting.
 
+### Exploratory Data Analysis
+EDA involved exploring the sales data to answer key questions, such as:
+- What trends can be observed in job loss or transformation due to AI over recent years?
+- What roles or job types are most vulnerable to replacement by AI technologies?
+- How does the adoption of AI differ between countries or regions in the dataset?
+
 ### Data Analysis
 I analyze the data in order to show the growth of AI related to the loss of jobs globally 
 
 
 ### Result/Findings
-1. 75% of the organizations believe AI helps them do better than their competitors2.
+1. 75% of the organizations believe AI helps them do better than their competitors.
 2. AI adoption goes up the number of jobs eliminated also goes up,  This means AI is taking over tasks that humans used to do like working  in factories, answering customer calls or doing repetitive office work.
 3. total value of the AI industry worldwide By the end, it jumped sharply to around 1,500 billion dollars (or 1.5 trillion dollars).
 4. 50% of the big company in US have starting to use AI
